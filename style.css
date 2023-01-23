@@ -1,0 +1,81 @@
+body{
+    background-image: url(/assets/war.jpg) no-repeat;
+    background-size: cover;
+    
+    
+    
+}
+p{
+    font-family: monospace;
+    border: solid darkkhaki;
+    border-radius: 25px;
+    
+
+    
+}
+h1{
+    border: 2px dashed red;
+    width: 20%;
+    border-style: groove;
+    
+    flood-color: aquamarine;
+    background-color: aqua;
+}
+.border{
+    border-top: 0.2cm solid mistyrose;
+    background-color:lightblue;
+    border-left: 0.1cm solid darkblue;
+    border-radius: 0%;
+    text-decoration: wavy;
+    text-align: center;
+    padding-top: 50px;
+    width: 370px;
+    
+}
+.i{
+    width: 370px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* body{
+    font-size: 18px;
+    border: 5px solid burlywood;
+    border-style: double solid ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height:1;
+    background-color: lightyellow;
+    color: darkcyan;
+}
+h2{
+    color: black;
+}
+h1{
+    text-align: center;   
+} */
+
+
+/* p{
+    color: purple;
+}
+.gray{
+    color: gray ;
+    border: 2px black;
+}
+#second{
+    font-style: italic;   
+}h1,h2{
+    color: aqua;
+}
+.highlite{
+    text-transform: uppercase;
+    background-color: gold;
+} */
