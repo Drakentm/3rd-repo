@@ -9,7 +9,7 @@
     color: cadetblue;
 }
 body{
-    background-image: url(/assets/war.jpg) ;
+    background-image: url(./assets/war.jpg) ;
     background-repeat: no-repeat;
     background-size: cover;
 }
